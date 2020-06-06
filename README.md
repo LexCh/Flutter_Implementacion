@@ -22,12 +22,13 @@ Implementación de la cámara, video y webservice con un menu de opciones
 ![WhatsApp Image 2020-06-06 at 13 38 26](https://user-images.githubusercontent.com/55968997/83952056-ada31f00-a7fb-11ea-8b7d-48435ed7cfee.jpeg)
 
 ## Descripcion
-![WhatsApp Image 2020-06-06 at 13 38 26 (1)](https://user-images.githubusercontent.com/55968997/83952097-f5c24180-a7fb-11ea-8888-9fd36d5b2eda.jpeg)![WhatsApp Image 2020-06-06 at 13 38 26 (4)](https://user-images.githubusercontent.com/55968997/83952131-3fab2780-a7fc-11ea-9dc9-d1a92defac35.jpeg)
+![WhatsApp Image 2020-06-06 at 13 38 26 (1)](https://user-images.githubusercontent.com/55968997/83952097-f5c24180-a7fb-11ea-8888-9fd36d5b2eda.jpeg)
 
 
-
-## Video Camara
+## Crud
 ![WhatsApp Image 2020-06-06 at 13 38 26 (3)](https://user-images.githubusercontent.com/55968997/83952112-17232d80-a7fc-11ea-940c-a3b76fe33f51.jpeg)
+![WhatsApp Image 2020-06-06 at 13 38 26 (4)](https://user-images.githubusercontent.com/55968997/83952131-3fab2780-a7fc-11ea-9dc9-d1a92defac35.jpeg)
+
 
 
 
